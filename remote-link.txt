@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tissue-chances-experiment-flag.trycloudflare.com/vnc.html
+URL       : https://after-curriculum-santa-launched.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 16:26:20
+Created   : 2026-07-29 21:01:59
 =======================================================
