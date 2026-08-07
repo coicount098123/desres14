@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://waiting-thoughts-sand-wallpaper.trycloudflare.com/vnc.html
+URL       : https://excluded-tribune-traffic-enables.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 10:57:41
+Created   : 2026-08-07 16:01:25
 =======================================================
