@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://narrative-place-merely-smaller.trycloudflare.com/vnc.html
+URL       : https://paso-investigations-junction-calendars.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 10:28:03
+Created   : 2026-08-15 15:26:05
 =======================================================
