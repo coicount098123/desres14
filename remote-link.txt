@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://souls-albuquerque-interactive-pray.trycloudflare.com/vnc.html
+URL       : https://screens-refer-min-week.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 20:33:06
+Created   : 2026-08-17 01:27:05
 =======================================================
