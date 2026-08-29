@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://min-substantial-leisure-kinds.trycloudflare.com/vnc.html
+URL       : https://echo-department-contribute-remarkable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-28 23:57:24
+Created   : 2026-08-29 06:19:43
 =======================================================
