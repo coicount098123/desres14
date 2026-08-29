@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://retention-regional-reasonably-useful.trycloudflare.com/vnc.html
+URL       : https://throughout-rank-halifax-bon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 18:22:19
+Created   : 2026-08-29 22:31:42
 =======================================================
