@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://throughout-rank-halifax-bon.trycloudflare.com/vnc.html
+URL       : https://routine-christmas-heated-constructed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 22:31:42
+Created   : 2026-08-30 04:28:53
 =======================================================
