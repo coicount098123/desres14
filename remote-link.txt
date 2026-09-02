@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://easily-science-powered-south.trycloudflare.com/vnc.html
+URL       : https://there-filled-derived-though.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 22:30:46
+Created   : 2026-09-02 03:38:53
 =======================================================
